@@ -10,7 +10,7 @@
         </br>
         We've collected all coding of java from this competition between Round 0 to Round 3.
         </br>
-        We apologize if there are any errors.
+        We apologize if there are any errors throughout the competition.
         </br>
         </br>
         Thank you for your kind attention and support.💖
